@@ -1,4 +1,4 @@
-# !/usr/bin/env python
+se# !/usr/bin/env python
 
 from distutils.core import setup
 setup(
@@ -9,7 +9,7 @@ setup(
     author='Jesse Galley',
     license='BSD',
     author_email='jesse.galley@gmail.com',
-    url='https://github.com/jwgalley/cookiecutter-pypackage',
+    url='https://github.com/jessegalley/cookiecutter-pypackage',
     keywords=['cookiecutter', 'template', 'package', ],
     python_requires='>=3.6',
     classifiers=[
